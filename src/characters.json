@@ -1,0 +1,61 @@
+[
+    {   "id": 1,
+        "charName": "simba",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG99.png"
+    },
+    {
+        "id": 2,
+        "charName": "scar1",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG98.png"
+    },
+    {
+        "id": 3,
+        "charName": "scar2",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG97.png"
+    },
+    {
+        "id": 4,
+        "charName": "nala",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG93.png"
+    },
+    {
+        "id": 5,
+        "charName": "mufasa",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG87.png"
+    },
+    {
+        "id": 6,
+        "charName": "nala2",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG82.png"
+    },
+    {
+        "id": 7,
+        "charName": "timon",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG73.png"
+    },
+    {
+        "id": 8,
+        "charName": "pumbaaandsimba",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG65.png"
+    },
+    {
+        "id": 9,
+        "charName": "mufasaandsimba",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG66.png"
+    },
+    {
+        "id": 10,
+        "charName": "rafikiandsimba",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG50.png"
+    },
+    {
+        "id": 11,
+        "charName": "mufasaandsimba2",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG38.png"
+    },
+    {
+        "id": 12,
+        "charName": "nala3",
+        "image": "http://pngimg.com/uploads/lion_king/lion_king_PNG14.png"
+    }
+]

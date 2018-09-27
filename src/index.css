@@ -1,0 +1,7 @@
+/* This code formats the html body font  */
+
+body {
+  margin: 10;
+  padding: 10;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
